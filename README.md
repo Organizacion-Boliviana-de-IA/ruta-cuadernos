@@ -1,6 +1,6 @@
 # Cuadernos de la ruta de aprendizaje de la OBIA
 
-Un cuaderno de Jupyter por tema de la [ruta de aprendizaje](https://iabolivia.org/ruta/) de la
+Un cuaderno de Jupyter por tema de la [ruta de aprendizaje](https://iabolivia.org/aprende/aprendizaje-automatico/) de la
 Organización Boliviana de Inteligencia Artificial (OBIA): la teoría y los ejercicios de cada
 tema, con todo su código, listos para ejecutar en Google Colab.
 
